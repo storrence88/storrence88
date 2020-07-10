@@ -4,6 +4,6 @@ I am a full-time Ruby on Rails developer living in Dallas. I'm a developer at Cr
 
 I love learning new things and challenging myself while sharing experience and meeting new people along the way!
 
-## If you like what you see, feel free to follow me!
+### If you like what you see, feel free to follow me!
 
-🤙
+# 🤙
