@@ -1,3 +1,3 @@
 ## Sup! ⌑
 
-Full-time Rails developer living in the DFW metroplex occasionally dabbling with React in my spare time.
+Full-time Ruby developer living in the DFW metroplex occasionally dabbling with React in my spare time.
